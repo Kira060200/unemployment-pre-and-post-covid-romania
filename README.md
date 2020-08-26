@@ -4,7 +4,7 @@ Simple yet interesting task to practice my data visualization skills. The result
 The used data is from the first registration of a COVID-19 case in Romania until the lifting of the restrictions in May 2020.
 ### Barplot:
 [![screenshot](https://github.com/Kira060200/unemployment-pre-and-post-covid-romania/blob/master/someri.png)](https://github.com/Kira060200/unemployment-pre-and-post-covid-romania/blob/master/someri.png)
-For non-english speakers, the data is distributed by counties as follows: 
+For non-English speakers, the data is distributed by counties as follows: 
 
 • blue -> unemployment in May(after lockdown)
 
