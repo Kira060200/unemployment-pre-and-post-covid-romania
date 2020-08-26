@@ -1,6 +1,6 @@
-# unemployment pre and post Covid-19 in Romania
+# Unemployment pre and post Covid-19 in Romania
 Simple yet interesting task to practice my data visualization skills. The resulting graph is 'someri.png'.
-
+The used data is from the first registration of a COVID-19 case until the lifting of the restrictions in May
 ### Conclusions from the graph:
 
 • The number of unemployed workers in Romania increased very little from the first registration of a COVID-19 case until the lifting of the restrictions in May.  Unfortunately, our government does not provide much data on past years to see a trend in unemployment, unlike other EU countries.
