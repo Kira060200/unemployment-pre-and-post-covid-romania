@@ -1,4 +1,4 @@
-# Unemployment pre and post Covid-19 in Romania
+# Unemployment pre and post COVID-19 in Romania
 Simple yet interesting task to practice my data visualization skills. The resulting graph is 'someri.png'.
 
 The used data is from the first registration of a COVID-19 case until the lifting of the restrictions in May.
